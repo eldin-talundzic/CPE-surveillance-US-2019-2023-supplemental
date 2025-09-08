@@ -19,7 +19,7 @@ This study evaluated temporal trends and geographic patterns of carbapenemase-pr
 ## Supplemental Files Included
 
 ### Supporting Materials
-- [`ANNALS-25-02404-supplement.pdf`](ANNALS-25-02404-supplement.pdf) - Complete supplemental materials including:
+- [`ANNALS-25-02404-supplement.pdf`](ANNALS-25-02404_supplement-FINAL.pdf) - Complete supplemental materials including:
   - **Table S1.** State CRE Isolate Submission Reporting Mandates Across an Open Cohort of 29 U.S. States
   - **File S1.** Methods Describing Definitions and Analytic Limitations
   - **File S2.** Statistical Analysis Plan for Open Cohort and Calculating Incidence Rates
