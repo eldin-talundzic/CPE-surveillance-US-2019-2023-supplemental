@@ -1,25 +1,96 @@
-# CDCgov GitHub Organization Open Source Project Template
-
-**Template for clearance: This project serves as a template to aid projects in starting up and moving through clearance procedures. To start, create a new repository and implement the required [open practices](open_practices.md), train on and agree to adhere to the organization's [rules of behavior](rules_of_behavior.md), and [send a request through the create repo form](https://forms.office.com/Pages/ResponsePage.aspx?id=aQjnnNtg_USr6NJ2cHf8j44WSiOI6uNOvdWse4I-C2NUNk43NzMwODJTRzA4NFpCUk1RRU83RTFNVi4u) using language from this template as a Guide.**
-
-**General disclaimer** This repository was created for use by CDC programs to collaborate on public health related projects in support of the [CDC mission](https://www.cdc.gov/about/cdc/#cdc_about_cio_mission-our-mission).  GitHub is not hosted by the CDC, but is a third party website used by CDC and its partners to share information and collaborate on software. CDC use of GitHub does not imply an endorsement of any one particular service, product, or enterprise. 
-
-## Access Request, Repo Creation Request
-
-* [CDC GitHub Open Project Request Form](https://forms.office.com/Pages/ResponsePage.aspx?id=aQjnnNtg_USr6NJ2cHf8j44WSiOI6uNOvdWse4I-C2NUNk43NzMwODJTRzA4NFpCUk1RRU83RTFNVi4u) _[Requires a CDC Office365 login, if you do not have a CDC Office365 please ask a friend who does to submit the request on your behalf. If you're looking for access to the CDCEnt private organization, please use the [GitHub Enterprise Cloud Access Request form](https://forms.office.com/Pages/ResponsePage.aspx?id=aQjnnNtg_USr6NJ2cHf8j44WSiOI6uNOvdWse4I-C2NUQjVJVDlKS1c0SlhQSUxLNVBaOEZCNUczVS4u).]_
-
-## Related documents
-
-* [Open Practices](open_practices.md)
-* [Rules of Behavior](rules_of_behavior.md)
-* [Thanks and Acknowledgements](thanks.md)
-* [Disclaimer](DISCLAIMER.md)
-* [Contribution Notice](CONTRIBUTING.md)
-* [Code of Conduct](code-of-conduct.md)
+# Supplemental Materials: Carbapenemase-Producing Enterobacterales Surveillance Study (2019-2023)
 
 ## Overview
 
-Describe the purpose of your project. Add additional sections as necessary to help collaborators and potential collaborators understand and use your project.
+This repository contains supplemental materials for the published manuscript evaluating changes in carbapenemase-producing Enterobacterales (CPE) surveillance across 29 US states from 2019 to 2023. These materials provide additional methodological details, data, and analyses to support the findings presented in the main publication.
+
+**Manuscript DOI:** [doi:10.7326/ANNALS-25-02404](https://doi.org/10.7326/ANNALS-25-02404)
+
+## Study Purpose
+
+This study evaluated temporal trends and geographic patterns of carbapenemase-producing carbapenem-resistant Enterobacterales (CP-CRE) across participating US states to assess changes in surveillance capacity and disease burden over a five-year period.
+
+## Study Objective
+
+- **Primary Objective:** Assess changes in CP-CRE detection and reporting across 29 US states from 2019-2023
+
+## Supplemental Files Included
+
+## Supplemental Files Included
+
+### Supporting Materials
+- [`ANNALS-25-02404-supplement.pdf`](ANNALS-25-02404-supplement.pdf) - Complete supplemental materials including:
+  - **Table S1.** State CRE Isolate Submission Reporting Mandates Across an Open Cohort of 29 U.S. States
+  - **File S1.** Methods Describing Definitions and Analytic Limitations
+  - **File S2.** Statistical Analysis Plan for Open Cohort and Calculating Incidence Rates
+  - **Table S2.** States Included in Open Cohort by Year
+  - **Table S3.** Trend Analysis of Age-Adjusted CP-CRE Incidence Rates Persons Across an Open Cohort of U.S. States with Required CRE Isolate Submission, 2019-2023
+  - **Table S4.** Unadjusted and Age-Adjusted CP-CRE, KPC-CRE, and NDM-CRE Incidence Rates Across an Open Cohort of U.S. States with Required CRE Isolate Submission, 2019-2023, Overall and by Age Group
+  - **Table S5.** Unadjusted CP-CRE Incidence Rates per 100,000 Persons Across an Open Cohort of U.S. States with Required CRE Isolate Submission, 2019-2023
+  - **Table S6.** Age-Adjusted CP-CRE, KPC-CRE, and NDM-CRE Incidence Rates by State, Across an Open Cohort of 30 U.S. States with Required CRE Isolate Submission, 2019 vs. 2023
+  - **Table S7.** Sensitivity Analysis of CP-CRE, KPC-CRE, NDM-CRE Trends across U.S. States with Varying CRE Reporting Requirements, 2019 vs. 2023
+  - **Figure S1.** Sensitivity Analysis of Unadjusted CP-CRE, KPC-CRE, and NDM-CRE Incidence Rates in an Open Cohort with and without Influential States
+  - **Figure S2.** Percent of Carbapenemase Genes Identified from Carbapenem-Resistant (A) *Klebsiella spp.*, (B) *Escherichia coli*, and (C) *Enterobacter spp.* Clinical Isolates among an Open Cohort of U.S. States with Required CRE Isolate Submission, 2019-2023
+  - **Table S8.** Trend Analysis of Unadjusted CP-CRE Incidence Rates of Genera Across an Open Cohort of U.S. States with Required CRE Isolate Submission, 2019-2023
+
+## Team and Organization
+
+**Lead Organization:** Centers for Disease Control and Prevention (CDC)  
+**Program:** Antibiotic Resistance Laboratory Network (AR Lab Network)  
+**Division:** Division of Healthcare Quality Promotion, National Center for Emerging and Zoonotic Infectious Diseases
+
+## Contact Information
+
+For questions regarding this study or supplemental materials:
+
+**Email:** prbarteam@cdc.gov
+
+## Usage Guidelines and Disclaimers
+
+### Data Usage
+- These supplemental materials are provided to support scientific transparency and reproducibility
+- Data should be cited appropriately when used in subsequent research
+- Please reference the original manuscript when utilizing these materials
+
+### Disclaimers
+- The findings and conclusions in this repository are those of the authors and do not necessarily represent the official position of the Centers for Disease Control and Prevention
+- Data presented may be subject to reporting delays and updates
+- State-specific data should be interpreted within the context of individual state surveillance systems and reporting practices
+
+### Citation
+When using materials from this repository, please cite: : 
+```
+**Manuscript DOI:** [doi:10.7326/ANNALS-25-02404](https://doi.org/10.7326/ANNALS-25-02404)
+
+**Danielle A. Rankin, PhD** (ORCID: 0000-0003-3018-3373)  
+Division of Healthcare Quality and Promotion, National Center for Emerging and Zoonotic Infectious Diseases, Centers for Disease Control and Prevention, Atlanta, Georgia
+
+**Anna Stahl, MPH** (ORCID: 0000-0001-6722-1279)  
+Division of Healthcare Quality and Promotion, National Center for Emerging and Zoonotic Infectious Diseases, Centers for Disease Control and Prevention, Atlanta, Georgia
+
+**Sarah Sabour, PhD** (ORCID: 0000-0002-4803-3704)  
+Division of Healthcare Quality and Promotion, National Center for Emerging and Zoonotic Infectious Diseases, Centers for Disease Control and Prevention, Atlanta, Georgia
+
+**Mohammed A. Khan, PhD**  
+Division of Healthcare Quality and Promotion, National Center for Emerging and Zoonotic Infectious Diseases, Centers for Disease Control and Prevention, Atlanta, Georgia
+
+**Tiana Armstrong, MPH**  
+Division of Healthcare Quality and Promotion, National Center for Emerging and Zoonotic Infectious Diseases, Centers for Disease Control and Prevention, Atlanta, Georgia
+
+**Jennifer Y. Huang, MPH** (ORCID: 0000-0003-2635-9372)  
+Division of Healthcare Quality and Promotion, National Center for Emerging and Zoonotic Infectious Diseases, Centers for Disease Control and Prevention, Atlanta, Georgia
+
+**James Baggs, PhD** (ORCID: 0000-0003-0757-4683)  
+Division of Healthcare Quality and Promotion, National Center for Emerging and Zoonotic Infectious Diseases, Centers for Disease Control and Prevention, Atlanta, Georgia
+
+**Maroya Spalding Walters, PhD**  
+Division of Healthcare Quality and Promotion, National Center for Emerging and Zoonotic Infectious Diseases, Centers for Disease Control and Prevention, Atlanta, Georgia
+```
+
+## Repository Maintenance
+
+This repository contains static supplemental materials associated with the published manuscript. Materials will be maintained for archival purposes but may not receive regular updates.
+
   
 ## Public Domain Standard Notice
 This repository constitutes a work of the United States Government and is not
