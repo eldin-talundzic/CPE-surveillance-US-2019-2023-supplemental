@@ -15,9 +15,6 @@ This study evaluated temporal trends and geographic patterns of carbapenemase-pr
 - **Primary Objective:** Assess changes in CP-CRE detection and reporting across 29 US states from 2019-2023
 
 ## Supplemental Files Included
-
-## Supplemental Files Included
-
 ### Supporting Materials
 - [`ANNALS-25-02404-supplement.pdf`](ANNALS-25-02404_supplement-FINAL.pdf) - Complete supplemental materials including:
   - **Table S1.** State CRE Isolate Submission Reporting Mandates Across an Open Cohort of 29 U.S. States
